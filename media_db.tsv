@@ -1,0 +1,100 @@
+medium	description	compound	name
+LB	Lysogeny broth	M_adn	Adenosine
+LB	Lysogeny broth	M_ala__L	L-Alanine
+LB	Lysogeny broth	M_amp	AMP
+LB	Lysogeny broth	M_arg__L	L-Arginine
+LB	Lysogeny broth	M_aso3	Arsenite 
+LB	Lysogeny broth	M_asp__L	L-Aspartate
+LB	Lysogeny broth	M_ca2	Ca2+
+LB	Lysogeny broth	M_cbl1	Vitamin B12
+LB	Lysogeny broth	M_cd2	Cadmium 
+LB	Lysogeny broth	M_cl	Cl-
+LB	Lysogeny broth	M_cmp	CMP
+LB	Lysogeny broth	M_cobalt2	Co2+
+LB	Lysogeny broth	M_cro4	Chromate 
+LB	Lysogeny broth	M_cu2	Cu2+
+LB	Lysogeny broth	M_cys__L	L-Cysteine
+LB	Lysogeny broth	M_dad_2	Deoxyadenosine 
+LB	Lysogeny broth	M_dcyt	Deoxycytidine
+LB	Lysogeny broth	M_fe2	Fe2+
+LB	Lysogeny broth	M_fe3	Fe3+
+LB	Lysogeny broth	M_fol	Folate
+LB	Lysogeny broth	M_glc__D	D-Glucose
+LB	Lysogeny broth	M_glu__L	L-Glutamate
+LB	Lysogeny broth	M_gly	Glycine
+LB	Lysogeny broth	M_gmp	GMP
+LB	Lysogeny broth	M_gsn	Guanosine
+LB	Lysogeny broth	M_h2o	H2O
+LB	Lysogeny broth	M_h2s	Hydrogen sulfide
+LB	Lysogeny broth	M_h	H+
+LB	Lysogeny broth	M_hg2	Hg2+ 
+LB	Lysogeny broth	M_his__L	L-Histidine
+LB	Lysogeny broth	M_hxan	Hypoxanthine
+LB	Lysogeny broth	M_ile__L	L-Isoleucine
+LB	Lysogeny broth	M_ins	Inosine
+LB	Lysogeny broth	M_k	K+
+LB	Lysogeny broth	M_leu__L	L-Leucine
+LB	Lysogeny broth	M_lipoate	Lipoate
+LB	Lysogeny broth	M_lys__L	L-Lysine
+LB	Lysogeny broth	M_met__L	L-Methionine
+LB	Lysogeny broth	M_mg2	Mg
+LB	Lysogeny broth	M_mn2	Mn2+
+LB	Lysogeny broth	M_mobd	Molybdate
+LB	Lysogeny broth	M_na1	Na+
+LB	Lysogeny broth	M_nac	Isonicotinic acid
+LB	Lysogeny broth	M_nh4	Ammonium
+LB	Lysogeny broth	M_ni2	Ni2+
+LB	Lysogeny broth	M_o2	O2
+LB	Lysogeny broth	M_phe__L	L-Phenylalanine
+LB	Lysogeny broth	M_pheme	Protoheme
+LB	Lysogeny broth	M_pi	Phosphate
+LB	Lysogeny broth	M_pnto__R	PAN
+LB	Lysogeny broth	M_pro__L	L-Proline
+LB	Lysogeny broth	M_pydx	Pyridoxal
+LB	Lysogeny broth	M_ribflv	Riboflavin
+LB	Lysogeny broth	M_ser__L	L-Serine
+LB	Lysogeny broth	M_so4	Sulfate
+LB	Lysogeny broth	M_thm	Thiamin
+LB	Lysogeny broth	M_thr__L	L-Threonine
+LB	Lysogeny broth	M_thymd	Thymidine
+LB	Lysogeny broth	M_trp__L	L-Tryptophan
+LB	Lysogeny broth	M_tyr__L	L-Tyrosine
+LB	Lysogeny broth	M_ump	UMP
+LB	Lysogeny broth	M_ura	Uracil
+LB	Lysogeny broth	M_uri	Uridine
+LB	Lysogeny broth	M_val__L	L-Valine
+LB	Lysogeny broth	M_zn2	Zn2+
+M9	M9 minimal medium	M_2obut_e	Ca2+
+M9	M9 minimal medium	M_3gmp_e	Cl-
+M9	M9 minimal medium	M_acgam1p_e	Co2+
+M9	M9 minimal medium	M_akg_e	Cu2+
+M9	M9 minimal medium	M_arg__L_e	Fe2+
+M9	M9 minimal medium	M_asp__D_e	Fe3+
+M9	M9 minimal medium	M_asp__L_e	D-Glucose
+M9	M9 minimal medium	M_bzal_e	H2O
+M9	M9 minimal medium	M_ch4s_e	H+
+M9	M9 minimal medium	M_cit_e	K+
+M9	M9 minimal medium	M_citr__L_e	Mg
+M9	M9 minimal medium	M_cys__L_e	Mn2+
+M9	M9 minimal medium	M_f6p_e	Molybdate
+M9	M9 minimal medium	M_fum_e	Na+
+M9	M9 minimal medium	M_g6p_B_e	Ammonium
+M9	M9 minimal medium	M_gam6p_e	Ni2+
+M9	M9 minimal medium	M_gln__L_e	O2
+M9	M9 minimal medium	M_glu__L_e	Phosphate
+M9	M9 minimal medium	M_gua_e	Sulfate
+M9	M9 minimal medium	M_h2s_e	Zn2+
+M9	M9 minimal medium	M_hom__L_e	M_hom__L_e
+M9	M9 minimal medium	M_id3acald_e	M_id3acald_e
+M9	M9 minimal medium	M_leu__L_e	M_leu__L_e
+M9	M9 minimal medium	M_lys__L_e	M_lys__L_e
+M9	M9 minimal medium	M_mal__L_e	M_mal__L_e
+M9	M9 minimal medium	M_man1p_e	M_man1p_e
+M9	M9 minimal medium	M_mnl1p_e	M_mnl1p_e
+M9	M9 minimal medium	M_orn__L_e	M_orn__L_e
+M9	M9 minimal medium	M_orn_e	M_orn_e
+M9	M9 minimal medium	M_phe__L_e	M_phe__L_e
+M9	M9 minimal medium	M_rnam_e	M_rnam_e
+M9	M9 minimal medium	M_s_e	M_s_e
+M9	M9 minimal medium	M_succ_e	M_succ_e
+M9	M9 minimal medium	M_udcpp_e	M_udcpp_e
